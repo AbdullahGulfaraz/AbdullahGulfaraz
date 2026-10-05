@@ -241,16 +241,6 @@ I don't just write scripts; I build end-to-end digital solutions—from snappy, 
 
 ---
 
-<details>
-<summary><h2>💬 Dev Thought of the Day</h2></summary>
-<br>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Developer Quote"/>
-</div>
-</details>
-
----
-
 <!-- ====================================================================================================================================================== -->
 <!-- ================================================================= CONNECT & FOOTER ================================================================== -->
 <!-- ====================================================================================================================================================== -->
