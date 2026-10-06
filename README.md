@@ -11,7 +11,7 @@
 
   <p align="center">
     <img src="https://img.icons8.com/emoji/24/round-pushpin-emoji.png" alt="location pin" />
-    <b>Rawalpindi / Islamabad, Pakistan</b>
+    <b>Lahore, Pakistan</b>
   </p>
 
   <p align="center">
