@@ -15,10 +15,10 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AbdullahGulfaraz&label=Profile%20views&color=green&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/AbdullahGulfaraz?logo=github&style=for-the-badge&color=1722162" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/AbdullahGulfaraz?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=1722162" alt="GitHub User's stars" />
-  </p>
+  <img src="https://hits.sh/github.com/AbdullahGulfaraz/AbdullahGulfaraz.svg?label=Profile%20views&color=4c1&style=for-the-badge&extra=100" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AbdullahGulfaraz?logo=github&style=for-the-badge&color=1722162" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/AbdullahGulfaraz?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=1722162" alt="GitHub User's stars" />
+</p>
 </div>
 
 ---
