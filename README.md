@@ -265,9 +265,6 @@ I don't just write scripts; I build end-to-end digital solutions—from snappy, 
 
   **“Simplicity is prerequisite for reliability.”** — Edsger W. Dijkstra ⚡
 
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90">
-  <br>
   <sub>Crafted with passion & precision by <strong>Abdullah Gulfaraz</strong></sub>
 
 </div>
