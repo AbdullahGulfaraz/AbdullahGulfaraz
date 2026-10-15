@@ -44,7 +44,7 @@ Hey there! I'm **Abdullah Gulfaraz**, a **Full-Stack Web Developer** and undergr
 I don't just write scripts; I build end-to-end digital solutions—from snappy, accessible web frontends to scalable databases and automated background engines.
 
 ### 🔭 Where I Spend Most of My Time:
-- 🌐 **Modern Web Development:** Building performant, responsive web apps using **JavaScript, Tailwind CSS, HTML5/CSS3**, and component-driven patterns.
+- 🌐 **Modern Web Development:** Building performant, responsive web apps using **JavaScript, Tailwind CSS, Typescript, next.js, HTML5/CSS3**, and component-driven patterns.
 - ⚙️ **Backend & Architecture:** Engineering resilient REST APIs, authentication layers, and relational schemas using **Python, Django, and PostgreSQL / MySQL**.
 - 📱 **Mobile Applications:** Crafting fluid multiplatform apps with **Flutter & Dart**.
 - 🤖 **Workflow Automation:** Deploying event-driven pipelines using **n8n**, webhooks, and third-party API integrations (Meta/WhatsApp API, Google Workspace, Firebase).
